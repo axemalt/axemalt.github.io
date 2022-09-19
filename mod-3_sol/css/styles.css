@@ -1,0 +1,44 @@
+body {
+    font-size: 16px;
+}
+
+/*HEADER*/
+.container, .navbar {
+    padding: 0;
+}
+
+hr {
+    height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    padding: 5px;
+}
+
+#company-name {
+    padding-left: 15px;
+}
+
+.navbar-toggler {
+    margin-right: 15px;
+}
+
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+}
+
+#navbar-options {
+    background-color: antiquewhite;
+    text-align: center;
+}
+/*END HEADER*/
+
+#filler {
+    height: 1000px;
+    background-color: lightskyblue;
+    margin: 50px;
+}
